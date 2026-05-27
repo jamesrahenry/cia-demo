@@ -1,4 +1,4 @@
-# CIA Sentinel Demo
+# Concept Integrity Auditor (CIA) Demo
 
 > *What is the model thinking about, regardless of what it ends up saying?*
 

@@ -59,7 +59,7 @@ No training. No fine-tuning. No model modification. If you have the weights, you
 
 ## Research
 
-The CAZ framework and CIA methodology are described in:
+The CAZ framework underlying the CIA is described in:
 
 - Henry, J. (2026a). *Concept Allocation Zones: Layer-wise concept formation in transformer residual streams.* arXiv:2605.24856 — CAZ framework
-- Henry, J. (2026b). *Geometric Evolution Maps: Layer-resolved concept assembly in large language models.* arXiv:2605.25848 — GEM / CIA foundation
+- Henry, J. (2026b). *Geometric Evolution Maps: Layer-resolved concept assembly in large language models.* arXiv:2605.25848 — GEM / residual stream assembly

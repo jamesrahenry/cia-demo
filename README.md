@@ -14,10 +14,10 @@ This repo contains demo materials for the **Concept Integrity Auditor (CIA)** �
 
 ## What's in this repo
 
-| Path | Description |
-|------|-------------|
-| [`notebooks/01_caz_science.ipynb`](notebooks/01_caz_science.ipynb) | The science: how concept geometry emerges in residual streams (CAZ framework) |
-| [`notebooks/02_cia_demo.ipynb`](notebooks/02_cia_demo.ipynb) | Driving the CIA API from a notebook — live concept scores, audit log |
+| Notebook | Description | |
+|----------|-------------|---|
+| [`notebooks/01_caz_science.ipynb`](notebooks/01_caz_science.ipynb) | The science: how concept geometry emerges in residual streams (CAZ framework) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jamesrahenry/cia-demo/blob/main/notebooks/01_caz_science.ipynb) |
+| [`notebooks/02_cia_demo.ipynb`](notebooks/02_cia_demo.ipynb) | Driving the CIA API from a notebook — live concept scores, audit log *(requires CIA Sentinel running at cia-demo.henrynet.ca)* | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jamesrahenry/cia-demo/blob/main/notebooks/02_cia_demo.ipynb) |
 
 ## The science in 60 seconds
 
